@@ -1,0 +1,102 @@
+{
+  "name": "Alexandra Monroe",
+  "title": "Senior Product Engineer",
+  "email": "alex.monroe@example.com",
+  "linkedin": "https://linkedin.com/in/alexmonroe",
+  "github": "https://github.com/alexmonroe",
+  "sloganHeroSection": "I build products people love — from early-stage MVPs to systems at scale.",
+  "about": "I'm a product engineer with 8 years of experience across fintech, healthtech, and SaaS. I care deeply about the intersection of clean engineering and delightful UX. When I'm not shipping, I'm mentoring junior engineers and contributing to open-source tooling.",
+  "experience": [
+    {
+      "company": "Meridian Labs",
+      "role": "Senior Product Engineer",
+      "startDate": "Jan 2022",
+      "endDate": "Present",
+      "description": "Led a cross-functional team of 6 to rebuild the core payment infrastructure, cutting p99 latency by 40%. Shipped 3 major product lines."
+    },
+    {
+      "company": "Vanta Health",
+      "role": "Full-Stack Engineer",
+      "startDate": "Mar 2019",
+      "endDate": "Dec 2021",
+      "description": "Built HIPAA-compliant patient intake flows in React + Node.js. Integrated with Epic EHR and reduced onboarding time by 60%."
+    },
+    {
+      "company": "Starfield Digital",
+      "role": "Software Engineer",
+      "startDate": "Jun 2016",
+      "endDate": "Feb 2019",
+      "description": "Developed and maintained a white-label SaaS analytics platform serving 200+ B2B clients."
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Michigan",
+      "degree": "B.S. Computer Science",
+      "startDate": "2012",
+      "endDate": "2016",
+      "description": "Graduated with Distinction. Coursework in distributed systems, algorithms, and human-computer interaction."
+    }
+  ],
+  "projects": [
+    {
+      "title": "ClearPath",
+      "description": "An open-source CLI tool for visualising dependency graphs in monorepos. 2,800+ GitHub stars.",
+      "github": "https://github.com/alexmonroe/clearpath",
+      "demo": "https://clearpath.dev",
+      "stack": [
+        "TypeScript",
+        "Node.js",
+        "D3.js",
+        "CLI"
+      ]
+    },
+    {
+      "title": "Pulse Dashboard",
+      "description": "Real-time operations dashboard built for a Series B logistics startup. Handles 50k+ events/min.",
+      "github": "https://github.com/alexmonroe/pulse-dashboard",
+      "demo": "https://pulse-demo.vercel.app",
+      "stack": [
+        "React",
+        "WebSockets",
+        "Postgres",
+        "Redis"
+      ]
+    },
+    {
+      "title": "Formix",
+      "description": "Headless form-state library for React with zero-config validation and TypeScript-first API.",
+      "github": "https://github.com/alexmonroe/formix",
+      "stack": [
+        "React",
+        "TypeScript",
+        "Zod",
+        "Rollup"
+      ]
+    }
+  ],
+  "skills": [
+    "TypeScript",
+    "React",
+    "Node.js",
+    "PostgreSQL",
+    "Redis",
+    "AWS",
+    "Docker",
+    "GraphQL",
+    "Python",
+    "System Design",
+    "Team Leadership",
+    "Product Strategy"
+  ],
+  "community": [
+    {
+      "title": "Open Source Contributor",
+      "description": "Maintainer of two npm packages with 15k+ combined weekly downloads."
+    },
+    {
+      "title": "Engineering Mentor",
+      "description": "Volunteer mentor at CodePath, supporting 30+ underrepresented students in tech over 3 cohorts."
+    }
+  ]
+}
