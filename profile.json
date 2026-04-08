@@ -1,269 +1,11 @@
 {
   "name": "ALEXANDRA MONROE",
   "title": "Senior Product Engineer",
+  "sloganHeroSection": "I build products people love — from early-stage MVPs to systems at scale.",
   "bio": "I'm a product engineer with 8 years of experience across fintech, healthtech, and enterprise SaaS. I care deeply about the intersection of clean, scalable engineering and genuinely delightful user experience. When I'm not shipping, I'm mentoring junior engineers, contributing to open-source projects, and speaking at conferences about distributed systems and engineering leadership.",
-  "about": "I'm a product engineer with 8 years of experience across fintech, healthtech, and enterprise SaaS. I care deeply about the intersection of clean, scalable engineering and genuinely delightful user experience. When I'm not shipping, I'm mentoring junior engineers, contributing to open-source projects, and speaking at conferences about distributed systems and engineering leadership.",
   "email": "alex.monroe@example.com",
   "linkedin": "https://linkedin.com/in/alexmonroe",
   "github": "https://github.com/alexmonroe",
-  "website": "https://alexmonroe.dev",
-  "location": "San Francisco, CA",
-  "sloganHeroSection": "I build products people love — from early-stage MVPs to systems at scale.",
-  "experience": [
-    {
-      "company": "Meridian Labs",
-      "role": "Senior Product Engineer",
-      "period": "Jan 2022 – Present",
-      "startDate": "Jan 2022",
-      "endDate": "Present",
-      "duration": "Jan 2022 – Present",
-      "location": "San Francisco, CA",
-      "description": "Leading a cross-functional team of 6 engineers to rebuild the core payment infrastructure, cutting p99 latency by 40% and reducing operational costs by $2M annually. Shipped 3 major product lines that collectively onboarded 12,000 new enterprise customers.",
-      "highlights": [
-        "Reduced p99 payment latency by 40% through infrastructure redesign",
-        "Shipped 3 product lines, onboarding 12,000+ enterprise customers",
-        "Mentored 4 junior engineers to senior-level promotions"
-      ],
-      "responsibilities": [
-        "Redesigned core payment infrastructure using event-driven architecture",
-        "Led cross-functional team across engineering, product, and design",
-        "Drove $2M annual cost savings through infrastructure optimisation"
-      ],
-      "tech": [
-        "TypeScript",
-        "Node.js",
-        "PostgreSQL",
-        "Kafka",
-        "AWS",
-        "React"
-      ],
-      "stack": [
-        "TypeScript",
-        "Node.js",
-        "PostgreSQL",
-        "Kafka",
-        "AWS",
-        "React"
-      ]
-    },
-    {
-      "company": "Vanta Health",
-      "role": "Full-Stack Engineer",
-      "period": "Mar 2019 – Dec 2021",
-      "startDate": "Mar 2019",
-      "endDate": "Dec 2021",
-      "duration": "Mar 2019 – Dec 2021",
-      "location": "Remote",
-      "description": "Built HIPAA-compliant patient intake flows in React and Node.js, integrating with Epic EHR to reduce patient onboarding time by 60%. Owned full-stack development of the telehealth module, which grew to serve 80,000 active patients.",
-      "highlights": [
-        "Reduced patient onboarding time by 60% with new intake flows",
-        "Built telehealth module serving 80,000 active patients",
-        "Achieved HIPAA compliance certification across all patient-facing APIs"
-      ],
-      "responsibilities": [
-        "Built HIPAA-compliant React + Node.js patient intake flows",
-        "Integrated with Epic EHR and third-party telehealth providers",
-        "Maintained 99.99% uptime SLA across all patient-critical services"
-      ],
-      "tech": [
-        "React",
-        "Node.js",
-        "PostgreSQL",
-        "Epic EHR API",
-        "Docker",
-        "Redis"
-      ],
-      "stack": [
-        "React",
-        "Node.js",
-        "PostgreSQL",
-        "Epic EHR API",
-        "Docker",
-        "Redis"
-      ]
-    },
-    {
-      "company": "Starfield Digital",
-      "role": "Software Engineer",
-      "period": "Jun 2016 – Feb 2019",
-      "startDate": "Jun 2016",
-      "endDate": "Feb 2019",
-      "duration": "Jun 2016 – Feb 2019",
-      "location": "Austin, TX",
-      "description": "Developed and maintained a white-label SaaS analytics platform serving 200+ B2B clients. Rebuilt the data ingestion pipeline from scratch, improving throughput 5x and enabling real-time dashboard updates that reduced average load time from 8s to under 1.2s.",
-      "highlights": [
-        "Rebuilt data pipeline, improving throughput 5x for 200+ B2B clients",
-        "Reduced dashboard load time from 8s to under 1.2s",
-        "Delivered real-time dashboard updates across all client tiers"
-      ],
-      "responsibilities": [
-        "Owned the data ingestion pipeline and real-time analytics engine",
-        "Built white-label customisation system supporting 200+ client brands",
-        "Reduced dashboard load time from 8s to under 1.2s"
-      ],
-      "tech": [
-        "Python",
-        "React",
-        "Django",
-        "Redis",
-        "PostgreSQL",
-        "Celery"
-      ],
-      "stack": [
-        "Python",
-        "React",
-        "Django",
-        "Redis",
-        "PostgreSQL",
-        "Celery"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Michigan",
-      "degree": "B.S. Computer Science",
-      "period": "2012 – 2016",
-      "year": "2016",
-      "startDate": "2012",
-      "endDate": "2016",
-      "graduationYear": "2016",
-      "location": "Ann Arbor, MI",
-      "gpa": "3.9",
-      "description": "Graduated with Distinction — top 5% of class. Concentrated in distributed systems and human-computer interaction. Senior thesis on fault-tolerant consensus algorithms published in the ACM Digital Library.",
-      "achievements": [
-        "Graduated with Distinction — top 5% of class",
-        "Senior thesis published in the ACM Digital Library",
-        "President of the Society of Women Engineers chapter",
-        "Dean's List — all eight semesters"
-      ]
-    },
-    {
-      "institution": "Recurse Center",
-      "degree": "Residency — Systems Programming",
-      "period": "Summer 2017",
-      "year": "2017",
-      "startDate": "2017",
-      "endDate": "2017",
-      "graduationYear": "2017",
-      "location": "New York, NY",
-      "description": "Self-directed research residency focused on building a distributed key-value store in Rust and studying consensus protocols including Raft and Paxos.",
-      "achievements": [
-        "Built a distributed key-value store in Rust from scratch",
-        "Deep-dived Raft and Paxos consensus protocols"
-      ]
-    }
-  ],
-  "projects": [
-    {
-      "title": "ClearPath",
-      "description": "An open-source CLI tool for visualising dependency graphs in monorepos. Supports Nx, Turborepo, and pnpm workspaces. 2,800+ GitHub stars and adopted by engineering teams at Vercel, Linear, and Notion.",
-      "github": "https://github.com/alexmonroe/clearpath",
-      "demo": "https://clearpath.dev",
-      "stack": [
-        "TypeScript",
-        "Node.js",
-        "D3.js",
-        "CLI",
-        "Ink"
-      ],
-      "tags": [
-        "TypeScript",
-        "Node.js",
-        "D3.js",
-        "CLI",
-        "Ink"
-      ],
-      "technologies": [
-        "TypeScript",
-        "Node.js",
-        "D3.js",
-        "CLI",
-        "Ink"
-      ]
-    },
-    {
-      "title": "Pulse Dashboard",
-      "description": "Real-time operations dashboard built for a Series B logistics startup. Handles 50k+ events per minute via WebSocket fan-out, with sub-100ms P99 update latency. Reduced on-call pages by 35% in the first quarter after launch.",
-      "github": "https://github.com/alexmonroe/pulse-dashboard",
-      "demo": "https://pulse-demo.vercel.app",
-      "stack": [
-        "React",
-        "WebSockets",
-        "PostgreSQL",
-        "Redis",
-        "Grafana"
-      ],
-      "tags": [
-        "React",
-        "WebSockets",
-        "PostgreSQL",
-        "Redis",
-        "Grafana"
-      ],
-      "technologies": [
-        "React",
-        "WebSockets",
-        "PostgreSQL",
-        "Redis",
-        "Grafana"
-      ]
-    },
-    {
-      "title": "Formix",
-      "description": "Headless form-state library for React with zero-config validation, TypeScript-first API, and framework-agnostic adapters. 1,100+ stars, 12k weekly npm downloads, and zero production issues since v1.0.",
-      "github": "https://github.com/alexmonroe/formix",
-      "demo": "https://formix.dev",
-      "stack": [
-        "React",
-        "TypeScript",
-        "Zod",
-        "Rollup",
-        "Vitest"
-      ],
-      "tags": [
-        "React",
-        "TypeScript",
-        "Zod",
-        "Rollup",
-        "Vitest"
-      ],
-      "technologies": [
-        "React",
-        "TypeScript",
-        "Zod",
-        "Rollup",
-        "Vitest"
-      ]
-    },
-    {
-      "title": "Meridian Design System",
-      "description": "An accessible, token-driven component library used across all Meridian Labs products. 60+ components, full WCAG 2.1 AA compliance, and Figma-to-code synchronisation via Tokens Studio.",
-      "github": "https://github.com/alexmonroe/meridian-ds",
-      "demo": "https://meridian-ds.vercel.app",
-      "stack": [
-        "React",
-        "Storybook",
-        "Figma",
-        "Radix UI",
-        "CSS Modules"
-      ],
-      "tags": [
-        "React",
-        "Storybook",
-        "Figma",
-        "Radix UI",
-        "CSS Modules"
-      ],
-      "technologies": [
-        "React",
-        "Storybook",
-        "Figma",
-        "Radix UI",
-        "CSS Modules"
-      ]
-    }
-  ],
   "skills": [
     "TypeScript",
     "React",
@@ -284,75 +26,174 @@
     "Figma",
     "Agile"
   ],
-  "skillCategories": {
-    "Frontend": [
-      "TypeScript",
-      "React",
-      "Next.js",
-      "CSS Modules",
-      "Figma"
-    ],
-    "Backend": [
-      "Node.js",
-      "Python",
-      "Rust",
-      "GraphQL",
-      "REST APIs"
-    ],
-    "Data & Infra": [
-      "PostgreSQL",
-      "Redis",
-      "Kafka",
-      "AWS",
-      "Docker",
-      "Kubernetes"
-    ],
-    "Leadership": [
-      "System Design",
-      "Team Leadership",
-      "Product Strategy",
-      "Agile",
-      "Mentorship"
-    ]
-  },
+  "education": [
+    {
+      "degree": "B.S. Computer Science",
+      "institution": "University of Michigan",
+      "period": "2012 – 2016",
+      "location": "Ann Arbor, MI",
+      "description": "Graduated with Distinction — top 5% of class. Concentrated in distributed systems and human-computer interaction. Senior thesis on fault-tolerant consensus algorithms published in the ACM Digital Library.",
+      "achievements": [
+        "Graduated with Distinction — top 5% of class",
+        "Senior thesis published in the ACM Digital Library",
+        "President of the Society of Women Engineers chapter",
+        "Dean's List — all eight semesters"
+      ]
+    },
+    {
+      "degree": "Residency — Systems Programming",
+      "institution": "Recurse Center",
+      "period": "Summer 2017",
+      "location": "New York, NY",
+      "description": "Self-directed research residency focused on building a distributed key-value store in Rust and studying consensus protocols including Raft and Paxos.",
+      "achievements": [
+        "Built a distributed key-value store in Rust from scratch",
+        "Deep-dived Raft and Paxos consensus protocols",
+        "Published findings in the RC alumni newsletter"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Product Engineer",
+      "company": "Meridian Labs",
+      "period": "Jan 2022 – Present",
+      "location": "San Francisco, CA",
+      "description": "Leading a cross-functional team of 6 engineers to rebuild the core payment infrastructure, cutting p99 latency by 40% and reducing operational costs by $2M annually. Shipped 3 major product lines that collectively onboarded 12,000 new enterprise customers.",
+      "highlights": [
+        "Reduced p99 payment latency by 40% through infrastructure redesign",
+        "Shipped 3 product lines, onboarding 12,000+ enterprise customers",
+        "Mentored 4 junior engineers to senior-level promotions",
+        "Drove $2M in annual cost savings through infrastructure optimisation"
+      ],
+      "stack": [
+        "TypeScript",
+        "Node.js",
+        "PostgreSQL",
+        "Kafka",
+        "AWS",
+        "React"
+      ]
+    },
+    {
+      "role": "Full-Stack Engineer",
+      "company": "Vanta Health",
+      "period": "Mar 2019 – Dec 2021",
+      "location": "Remote",
+      "description": "Built HIPAA-compliant patient intake flows in React and Node.js, integrating with Epic EHR to reduce patient onboarding time by 60%. Owned full-stack development of the telehealth module, which grew to serve 80,000 active patients.",
+      "highlights": [
+        "Reduced patient onboarding time by 60% with new intake flows",
+        "Built telehealth module serving 80,000 active patients",
+        "Achieved HIPAA compliance certification across all patient-facing APIs",
+        "Maintained 99.99% uptime SLA across all patient-critical services"
+      ],
+      "stack": [
+        "React",
+        "Node.js",
+        "PostgreSQL",
+        "Epic EHR API",
+        "Docker",
+        "Redis"
+      ]
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Starfield Digital",
+      "period": "Jun 2016 – Feb 2019",
+      "location": "Austin, TX",
+      "description": "Developed and maintained a white-label SaaS analytics platform serving 200+ B2B clients. Rebuilt the data ingestion pipeline from scratch, improving throughput 5x and enabling real-time dashboard updates.",
+      "highlights": [
+        "Rebuilt data pipeline, improving throughput 5x for 200+ B2B clients",
+        "Reduced dashboard load time from 8s to under 1.2s",
+        "Delivered real-time dashboard updates across all client tiers",
+        "Owned white-label customisation system supporting 200+ brands"
+      ],
+      "stack": [
+        "Python",
+        "React",
+        "Django",
+        "Redis",
+        "PostgreSQL",
+        "Celery"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "ClearPath",
+      "description": "An open-source CLI tool for visualising dependency graphs in monorepos. Supports Nx, Turborepo, and pnpm workspaces. 2,800+ GitHub stars and adopted by engineering teams at Vercel, Linear, and Notion.",
+      "github": "https://github.com/alexmonroe/clearpath",
+      "demo": "https://clearpath.dev",
+      "stack": [
+        "TypeScript",
+        "Node.js",
+        "D3.js",
+        "CLI",
+        "Ink"
+      ]
+    },
+    {
+      "title": "Pulse Dashboard",
+      "description": "Real-time operations dashboard built for a Series B logistics startup. Handles 50k+ events per minute via WebSocket fan-out, with sub-100ms P99 update latency. Reduced on-call pages by 35% in the first quarter after launch.",
+      "github": "https://github.com/alexmonroe/pulse-dashboard",
+      "demo": "https://pulse-demo.vercel.app",
+      "stack": [
+        "React",
+        "WebSockets",
+        "PostgreSQL",
+        "Redis",
+        "Grafana"
+      ]
+    },
+    {
+      "title": "Formix",
+      "description": "Headless form-state library for React with zero-config validation, TypeScript-first API, and framework-agnostic adapters. 1,100+ stars, 12k weekly npm downloads, and zero production issues since v1.0.",
+      "github": "https://github.com/alexmonroe/formix",
+      "demo": "https://formix.dev",
+      "stack": [
+        "React",
+        "TypeScript",
+        "Zod",
+        "Rollup",
+        "Vitest"
+      ]
+    },
+    {
+      "title": "Meridian Design System",
+      "description": "An accessible, token-driven component library used across all Meridian Labs products. 60+ components, full WCAG 2.1 AA compliance, and Figma-to-code synchronisation via Tokens Studio.",
+      "github": "https://github.com/alexmonroe/meridian-ds",
+      "demo": "https://meridian-ds.vercel.app",
+      "stack": [
+        "React",
+        "Storybook",
+        "Figma",
+        "Radix UI",
+        "CSS Modules"
+      ]
+    }
+  ],
   "community": [
     {
-      "title": "Open Source Contributor",
-      "organization": "Open Source",
-      "name": "Open Source Contributor",
-      "role": "Maintainer",
-      "type": "Open Source",
-      "year": "2019 – Present",
-      "description": "Maintainer of Formix and ClearPath — two npm packages with 15k+ combined weekly downloads. Regularly reviews community PRs, triages issues, and writes migration guides for major releases.",
+      "role": "Open Source Maintainer",
+      "organization": "Formix / ClearPath",
+      "description": "Maintainer of two npm packages — Formix and ClearPath — with 15k+ combined weekly downloads. Regularly reviews community PRs, triages issues, and writes migration guides for major releases.",
       "link": "https://github.com/alexmonroe"
     },
     {
-      "title": "Engineering Mentor",
-      "organization": "CodePath",
-      "name": "Engineering Mentor",
       "role": "Volunteer Mentor",
-      "type": "Mentorship",
-      "year": "2020 – Present",
-      "description": "Volunteer mentor at CodePath, supporting 30+ underrepresented students in tech across 3 cohorts. Conducts weekly 1:1 sessions, mock interviews, and resume reviews. Three mentees have since landed roles at FAANG companies.",
+      "organization": "CodePath",
+      "description": "Mentoring 30+ underrepresented students in tech across 3 cohorts. Conducts weekly 1:1 sessions, mock interviews, and resume reviews. Three mentees have since landed roles at FAANG companies.",
       "link": "https://codepath.org"
     },
     {
-      "title": "Conference Speaker",
+      "role": "Conference Speaker",
       "organization": "QCon SF / NodeConf EU",
-      "name": "Conference Speaker",
-      "role": "Speaker",
-      "type": "Speaking",
-      "year": "2021, 2023",
       "description": "Delivered talks at QCon San Francisco and NodeConf EU on scaling payment infrastructure and zero-downtime microservice migrations. Both sessions rated in the top 10% by attendees.",
       "link": "https://qconsf.com"
     },
     {
-      "title": "Women in Tech Advocate",
-      "organization": "Women Who Code SF",
-      "name": "Women in Tech Advocate",
       "role": "Chapter Lead",
-      "type": "Community",
-      "year": "2018 – 2021",
+      "organization": "Women Who Code SF",
       "description": "Led the San Francisco chapter of Women Who Code, growing membership from 120 to 800+ engineers over 3 years. Organised monthly workshops, hackathons, and career panels with speakers from Stripe, Airbnb, and Google.",
       "link": "https://womenwhocode.com"
     }
