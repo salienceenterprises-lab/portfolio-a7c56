@@ -28,7 +28,7 @@ export default function RootLayout({ children }) {
         }}
         >
           <a
-            href="https://saliencestudio.io/api/auth/signin"
+            href="https://saliencestudio.io/api/auth/signin/github"
             style={{
               display: "flex",
               alignItems: "center",
